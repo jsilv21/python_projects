@@ -1,4 +1,5 @@
 #basic web scraper from Hacker News (Y Combinator)
+#takes the first 2 pages and sorts by most upvoted stories.
 
 import requests
 from bs4 import BeautifulSoup
